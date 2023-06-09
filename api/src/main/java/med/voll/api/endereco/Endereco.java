@@ -1,7 +1,7 @@
 package med.voll.api.endereco;
 
 import jakarta.persistence.Embeddable;
-import lombok.AllArgsConstructor;
+import lombok.AllArgsConstructor; 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
